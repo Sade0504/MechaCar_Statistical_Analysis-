@@ -9,3 +9,4 @@ AutosRUs has a new prototype named "the MechaCar". The company is having product
 * Determine if the manufacturing lots are statistically different from the mean population
 
 ## Linear Regression to Predict MPG
+<img width="868" alt="Untitled" src="https://user-images.githubusercontent.com/100165760/177222818-58837438-fb17-4a5b-852c-900eeeaa7143.png">
